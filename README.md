@@ -4,7 +4,7 @@
 - 📖 I’m currently learning more about React and TypeScript. 
 - 👨‍💻 I’m looking to develop my skills to be a great Frontend Developer. 
 - 📫 How to reach me: Email - sean@fetchanddisplay.dev
-- ⚡ Fun fact: I use to be a Theatre Sound Engineer.
+- ⚡ Fun fact: I use to be a Sound Engineer.
 
 <!--
 **Sean-at-Fetch-and-Display/Sean-at-Fetch-and-Display** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
